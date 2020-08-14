@@ -1,6 +1,6 @@
 # SteamSpectator
 
-You can simpy find out how many hours you (or your friends) have played since you last turned on the program<br>
+You can simply find out how many hours you (or your friends) have played since you last turned on the program<br>
 **Your Steam Profile must be Public**<br>
 
 # How it works ?
