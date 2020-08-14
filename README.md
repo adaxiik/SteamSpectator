@@ -10,3 +10,5 @@ It use [SteamID.xyz](https://steamid.xyz/) to convert Custom Steam URL to ID64 a
 # Usage
 Install requirements.txt<br>
 Delete .gitkeep from **/Profiles** and start **SteamSpectator.py**<br>
+
+![Example](https://raw.githubusercontent.com/adaxiik/SteamSpectator/master/Images/1.png)
