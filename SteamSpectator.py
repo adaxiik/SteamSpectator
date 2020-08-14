@@ -74,8 +74,10 @@ def Compare():
             print(colorama.Fore.CYAN+"Nothing New")
         print(colorama.Fore.YELLOW+"Total Time Played: "+str(round(TotalTime,2) ))
         SaveData(p,NewData)
-Compare()
-print(colorama.Fore.RED+"====================")
-p = input_colorama(colorama.Fore.YELLOW,"Profile ID: ")
-DwG = ParseGames(p)
-SaveData(p,DwG)
+
+if __name__ == "__main__":
+    Compare()
+    print(colorama.Fore.RED+"====================")
+    p = input_colorama(colorama.Fore.YELLOW,"Profile ID: ")
+    DwG = ParseGames(p)
+    SaveData(p,DwG)
